@@ -1,0 +1,18 @@
+// for creating the virtual env
+
+virtualenv env
+
+
+
+// for activating the virtual env
+
+source env/bin/activate
+
+
+
+// for reseting the dev server
+
+kill -9 $(ps -A | grep python | awk '{print $1}')
+
+
+
