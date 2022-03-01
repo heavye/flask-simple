@@ -1,5 +1,5 @@
 
-# FlaskIntroduction
+# Flask Introduction
 
 This repo has been updated to work with `Python v3.9` and up.
 Deployed on Heroku server https://flasksimplecrudtut.herokuapp.com/
